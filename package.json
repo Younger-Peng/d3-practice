@@ -1,0 +1,27 @@
+{
+  "name": "d3-practice",
+  "version": "1.0.0",
+  "description": "to explore d3 and build works",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Younger-Peng/d3-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Younger-Peng/d3-practice/issues"
+  },
+  "homepage": "https://github.com/Younger-Peng/d3-practice#readme",
+  "dependencies": {
+    "d3": "^5.7.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.25.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
